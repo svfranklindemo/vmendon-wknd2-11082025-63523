@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/vmendon-haiertargetvmendon-2025-8-11-12-5-18/language-masters/en:/",
+    "/content/vmendon-haiertargetvmendon-2025-8-11-12-5-18/language-masters/en/:/",
+    "/content/vmendon-haiertargetvmendon-2025-8-11-12-5-18/language-masters/en/:/en/",
+    "/content/vmendon-haiertargetvmendon-2025-8-11-12-5-18/configuration:/.helix/config.json",
+    "/content/vmendon-haiertargetvmendon-2025-8-11-12-5-18/metadata:/metadata.json",
+    "/content/vmendon-haiertargetvmendon-2025-8-11-12-5-18/redirects:/redirects.json",
+    "/content/vmendon-haiertargetvmendon-2025-8-11-12-5-18/placeholders:/placeholders.json",
+    "/content/vmendon-haiertargetvmendon-2025-8-11-12-5-18.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/vmendon-haiertargetvmendon-2025-8-11-12-5-18/",
+    "/content/dam/vmendon-haiertargetvmendon-2025-8-11-12-5-18/"
   ]
 }
